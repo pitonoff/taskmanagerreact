@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+h1 {
+   color: #fff;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
